@@ -30,7 +30,7 @@ body{
 .titulo{
    width: 100%;
    text-align: center;
-   font-family: 'Ubuntu';
+   font-family: 'Ubuntu',sans-serif;
    color: #000;
    margin: 10px;
    letter-spacing: .4rem;
