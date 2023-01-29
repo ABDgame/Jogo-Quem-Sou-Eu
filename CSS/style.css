@@ -6,5 +6,16 @@
    
 }
 body{
-   
+   width: 100vw;
+    height: 90vh;
+    margin-top: 10px;
+    background-image: url("BACKGROUND.jpg"); 
+    background-repeat: no-repeat;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Ubuntu', sans-serif;  
 }
