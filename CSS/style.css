@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 *{
    margin: 0px;
    padding: 0px;
@@ -24,15 +24,20 @@ body{
 .container{
     display: flex;
     flex-direction: column;
-    align-item: center;
+    align-items: center;
 }
 
 .titulo{
    width: 100%;
    text-align: center;
-   font-family: 'Ubuntu',sans-serif;
-   color: #000;
+   font-family: 'Luckiest Guy', cursive;
+   color: #ffd700;
    margin: 10px;
    letter-spacing: .4rem;
-
+}
+h1{
+   margin:0;
+   font-size: 5.5em;
+   padding: 0;
+   text-shadow: 0 0.1em 20px rgba(0, 0, 0, 1), 0.05em -0.03em 0 rgba();
 }
