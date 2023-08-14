@@ -1,7 +1,7 @@
 # Jogo-Quem-Sou-Eu
 Desenvolvido em HTML, CSS E JAVASCRIPT 
 
-[ ] 1 - 
+# [ ] 1 - 
 [ ] 2 - 
 [ ] 3 - 
 [ ] 4 - 
