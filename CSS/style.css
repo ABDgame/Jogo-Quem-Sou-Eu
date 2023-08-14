@@ -92,5 +92,15 @@ h1{
    border-radius: 40px;
    box-shadow: 0px 2px 4px #888888;
    background-image:url(../img/chocolate.png);
-   
+}
+.progresso{
+   display: flex;
+   width: 500px;
+   height: 30px;
+   margin: 10px;
+   background-color: #c9c9c9;
+   border-radius: 10px;
+   box-shadow: 0 2px 4px ;
+
+
 }
