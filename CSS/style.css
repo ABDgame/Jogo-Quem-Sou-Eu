@@ -12,17 +12,17 @@
 
 body{
    width: 100vw;
-    height: 90vh;
-    margin-top: 10px;
-    background-image: url("BACKGROUND.jpg"); 
-    background-repeat: no-repeat;
-    -o-background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    font-family: 'Ubuntu', sans-serif;  
+   height: 90vh;
+   margin-top: 10px;
+   background-image: url("BACKGROUND.jpg"); 
+   background-repeat: no-repeat;
+   -o-background-size: cover;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   font-family: 'Ubuntu', sans-serif;  
 }
 
 .container{
@@ -100,7 +100,11 @@ h1{
    margin: 10px;
    background-color: #c9c9c9;
    border-radius: 10px;
-   box-shadow: 0 2px 4px ;
-
-
+   box-shadow: 0 2px 4px #888888;
+}
+.progresso div{
+   width: 20%;
+   height: 30px;
+   background-color: #fff;
+   margin-right:1px;
 }
