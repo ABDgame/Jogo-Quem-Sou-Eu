@@ -1,19 +1,19 @@
 # Jogo-Quem-Sou-Eu
 Desenvolvido em HTML, CSS E JAVASCRIPT 
 #
-[ ] 1 - https://www.youtube.com/watch?v=0F0bsrV9lMY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=1
+[ x ] 1 - https://www.youtube.com/watch?v=0F0bsrV9lMY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=1
 #
-[ ] 2 - https://www.youtube.com/watch?v=PGYjqE7BeEQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=2
+[ x ] 2 - https://www.youtube.com/watch?v=PGYjqE7BeEQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=2
 #
-[ ] 3 - https://www.youtube.com/watch?v=2QMb8__rZmc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=3
+[ x ] 3 - https://www.youtube.com/watch?v=2QMb8__rZmc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=3
 #
-[ ] 4 - https://www.youtube.com/watch?v=Ti_Y0YaCjhQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=4
+[ x ] 4 - https://www.youtube.com/watch?v=Ti_Y0YaCjhQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=4
 #
-[ ] 5 - https://www.youtube.com/watch?v=rL42O4Gnh9Y&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=5
+[ x ] 5 - https://www.youtube.com/watch?v=rL42O4Gnh9Y&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=5
 #
-[ ] 6 - https://www.youtube.com/watch?v=3l2TJn_WGPs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=6
+[ x ] 6 - https://www.youtube.com/watch?v=3l2TJn_WGPs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=6
 #
-[ ] 7 - https://www.youtube.com/watch?v=oQ62sEjjIyU&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=7
+[ x ] 7 - https://www.youtube.com/watch?v=oQ62sEjjIyU&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=7
 #
 [ ] 8 - https://www.youtube.com/watch?v=StbGaB0A2S0&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=8
 #
