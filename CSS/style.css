@@ -59,5 +59,9 @@ h1{
 }
 .placar #vitorias{
    width: 270px;
-   
+   background-color: #000;
+   margin: 2px;
+   border: 2px solid #716c6c;
+   border-radius: 5px;
+   font-size: 40px;
 }
