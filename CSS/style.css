@@ -108,3 +108,12 @@ h1{
    background-color: #fff;
    margin-right:1px;
 }
+.progresso #progresso-01{
+   margin-left: 0;
+   border-radius: 0 10px 0 0 10px;
+
+}
+.progresso #progresso-02{
+   margin-right: 0;
+   border-radius: 0 10px 0 0 10px;
+}
