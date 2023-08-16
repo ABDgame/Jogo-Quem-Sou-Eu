@@ -92,7 +92,7 @@ h1{
    border: 10px solid #00ffdd;
    border-radius: 40px;
    box-shadow: 0px 2px 4px #888888;
-   background-image:url("../img/ABELHA.jpg");
+   background-image:url("./img/ABELHA.jpg");
 }
 .progresso{
    display: flex;
