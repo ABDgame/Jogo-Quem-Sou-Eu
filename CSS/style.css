@@ -164,9 +164,11 @@ form{
    border-radius: 10px;
    border: 2px solid dimgray;
    box-shadow: 0 2px 4px #888888;
-   font-family:"Lucki";
-
-
-
-   
+   font-family:"Luckiest Guy", cursive;
+   font-size: 1.7em;
+   cursor: pointer;   
+}
+#jogarNovamente button:hover{
+   font-size: 1.75em;
+   background-color: #84e712;
 }
