@@ -35,7 +35,7 @@ body{
    width: 100%;
    text-align: center;
    font-family: 'Luckiest Guy', cursive;
-   color: #F4D03F;
+   color: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
    margin: 10px;
    letter-spacing: .4rem;
 }
