@@ -150,4 +150,9 @@ form{
    outline: none;
    border-bottom: 1px solid #00ffdd;
 }
-.input-container input:focus{
+.input-container input:focus ~ label,
+.input-container input:valid ~label{
+   top: 12px;
+   font-size: 12px;
+   color: #9c9c9c;
+}
