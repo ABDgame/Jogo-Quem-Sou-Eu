@@ -145,3 +145,8 @@ form{
    text-align: center;
    text-transform: uppercase;
 }
+.input-container input:focus{
+   border: none;
+   outline: none;
+   border-bottom: 1px solid #00ffdd;
+}
