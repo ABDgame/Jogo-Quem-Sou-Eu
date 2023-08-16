@@ -156,3 +156,17 @@ form{
    font-size: 12px;
    color: #9c9c9c;
 }
+#jogarNovamente button{
+   background: #00ffdd;
+   width: 430px;
+   margin-top: 10px;
+   padding: 3px;
+   border-radius: 10px;
+   border: 2px solid dimgray;
+   box-shadow: 0 2px 4px #888888;
+   font-family:"Lucki";
+
+
+
+   
+}
