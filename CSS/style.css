@@ -182,7 +182,8 @@ footer{
 footer a{
    margin: 0.5px;
    color: dimgray;
+   transition: transform .2s;
 }
 footer a:hover{
-   
+   transform: scale();
 }
