@@ -177,10 +177,11 @@ footer{
    position: absolute;
    bottom: 10px;
    color: dimgray;
+   font-family: 'Poppins', sans-serif:
    font-size: 0.8em;
 }
 footer a{
-   margin: 0.5px;
+   margin: 0 5px;
    color: dimgray;
    transition: transform .2s;
 }
