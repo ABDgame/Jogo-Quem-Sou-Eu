@@ -185,5 +185,6 @@ footer a{
    transition: transform .2s;
 }
 footer a:hover{
+   color:#00ffdd;
    transform: scale();
 }
