@@ -19,7 +19,7 @@ Desenvolvido em HTML, CSS E JAVASCRIPT
 #
 [ x ] 9 - https://www.youtube.com/watch?v=JFgeEbjMjWA&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=9
 #
-[ ] 10 - https://www.youtube.com/watch?v=VtSkFTPq8gs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=10
+[ x ] 10 - https://www.youtube.com/watch?v=VtSkFTPq8gs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=10
 #
 [ ] 11 - https://www.youtube.com/watch?v=uktYK-Dmsbc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=11 
 #
