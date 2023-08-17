@@ -172,3 +172,17 @@ form{
    font-size: 1.75em;
    background-color: #84e712;
 }
+footer{
+   display: flex;
+   position: absolute;
+   bottom: 10px;
+   color: dimgray;
+   font-size: 0.8em;
+}
+footer a{
+   margin: 0.5px;
+   color: dimgray;
+}
+footer a:hover{
+   
+}
