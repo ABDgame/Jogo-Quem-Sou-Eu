@@ -1,10 +1,15 @@
-const listPersonagens[
-  personagem001{
+const listPersonagens = [
+  personagem001 = {
     nome = "ABELHA",
-    imagem = ""
+    imagem = "./img/ABELHA.jpg"
   },
   personagem002{
-    nome = "",
-    imagem = ""
-  }
+    nome = "ARANHA",
+    imagem = "./img/.jpg"
+  },
+  personagem003{
+    nome = "ASTRONAUTA",
+    imagem = "./img/.jpg"
+  },
+
 ]
