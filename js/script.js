@@ -144,13 +144,41 @@ const listPersonagens = [
     imagem = "./img/DEZEMBRO.jpg"
   },
   personagem037{
-    nome = "ASTRONAU",
-    imagem = "./img/.jpg"
+    nome = "DINHEIRO",
+    imagem = "./img/DINHEIRO.jpg"
   },
-  personagem003{
-    nome = "ASTRONAUTA",
-    imagem = "./img/.jpg"
+  personagem038{
+    nome = "DINOSSAURO",
+    imagem = "./img/DINOSSAURO.jpg"
   },
+  personagem039{
+    nome = "DOBRADURA",
+    imagem = "./img/DOBRADURA.jpg"
+  },
+  personagem040{
+    nome = "ESCORREGADOR",
+    imagem = "./img/ESCORREGADOR.jpg"
+  },
+  personagem041{
+    nome = "ESPAGUETE",
+    imagem = "./img/ESPAGUETE.jpg"
+  },
+  personagem042{
+    nome = "ESPANTALHO",
+    imagem = "./img/ESPANTALHO.jpg"
+  },
+  personagem043{
+    nome = "ESPELHO",
+    imagem = "./img/ESPELHO.jpg"
+  },
+  personagem044{
+    nome = "ESQUILO",
+    imagem = "./img/ESQUILO.jpg"
+  },
+
+
+
+
 
 
 
