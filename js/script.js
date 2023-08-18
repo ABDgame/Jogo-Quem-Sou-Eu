@@ -192,12 +192,28 @@ function SorteiaImagem(){
   document.getElementById("imagem").style.backgroundImagem = "url(" + imagemPersonagem +")";
   desfocarImagem(tentativas);
 }
-function desfocarImagem(valorDesfoque){
-  
-   switch (key) {
-
-
- 
+function desfocarImagem(valoDesfoque){
+  const imagem = document.getElementById("imagem")
+   
+   switch (valoDesfoque) {
+      case 5:
+       imagem.style.filter = "blur(40px)"
+       break;
+     case 4:
+       imagem.style.filter = "blur(30px)"
+       break;
+     case 3:
+       imagem.style.filter = "blur(30px)"
+       break;
+     case 2:
+       imagem.style.filter = "blur(30px)"
+       break;
+     case 1:
+       imagem.style.filter = "blur(30px)"
+       break; 
+     
+     default:
+       
    }
   
 }
