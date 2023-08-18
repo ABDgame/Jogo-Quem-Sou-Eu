@@ -175,6 +175,18 @@ const listPersonagens = [
     nome = "ESQUILO",
     imagem = "./img/ESQUILO.jpg"
   },
+];
+
+let nomePersonagem;
+let imagemPersonagem;
+
+SorteiaImagem();
+function SorteiaImagem(){
+  const index = parseInt(Math.random() * listPersonagens.length)
+
+  nomePersonagem = listPersonagem[index].nome;
+  imagemPersonagem = listPersonagem[index].imagem;
+}
 
 
 
