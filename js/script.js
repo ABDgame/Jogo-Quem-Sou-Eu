@@ -186,6 +186,8 @@ function SorteiaImagem(){
 
   nomePersonagem = listPersonagem[index].nome;
   imagemPersonagem = listPersonagem[index].imagem;
+
+  document.getElementById("imagem").style.backgroundImagem = "url(" + imagemPersonagem +")";
 }
 
 
