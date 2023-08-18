@@ -180,7 +180,7 @@ const listPersonagens = [
 let nomePersonagem;
 let imagemPersonagem;
 let tentativas = 5;
-
+let resposta;
 
 SorteiaImagem();
 function SorteiaImagem(){
@@ -223,6 +223,7 @@ function desfocarImagem(valoDesfoque){
 document.addEventListener("keyDown",(e) =>{
    if(e.key === 'Enter'){
      e.preventDefault();
+     resposta = document.querySelector("#resposta").value.ToUpperCase();
    }
 });
 
