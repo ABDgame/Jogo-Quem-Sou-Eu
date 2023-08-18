@@ -179,6 +179,8 @@ const listPersonagens = [
 
 let nomePersonagem;
 let imagemPersonagem;
+let tentativas = 5;
+
 
 SorteiaImagem();
 function SorteiaImagem(){
@@ -188,6 +190,16 @@ function SorteiaImagem(){
   imagemPersonagem = listPersonagem[index].imagem;
 
   document.getElementById("imagem").style.backgroundImagem = "url(" + imagemPersonagem +")";
+  desfocarImagem(tentativas);
+}
+function desfocarImagem(valorDesfoque){
+  
+   switch (key) {
+
+
+ 
+   }
+  
 }
 
 
