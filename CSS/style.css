@@ -61,9 +61,9 @@ h1{
    box-shadow: 0px 2px 4px #888888;
    font-family: 'Luckiest Guy', cursive;
    text-align: center;
+   letter-spacing: 0.2rem;
 }
-.placar #vitorias, .placar #derrotas
-{
+.placar #vitorias, .placar #derrotas{
    width: 270px;
    background-color: #000;
    margin: 2px;
@@ -80,11 +80,13 @@ h1{
 }
 .borda-imagem{
    width: 600px;
-   height: 47px;
+   height: 425px;
    margin: 20px;
    margin-top: 0;
    border:10px solid #00ffdd;
    border-radius: 40px;
+   box-shadow: 0px 2px 4px #888888;
+
 }
 .borda-imagem #imagem{
    width:100%;
@@ -92,7 +94,6 @@ h1{
    border: 10px solid #00ffdd;
    border-radius: 40px;
    box-shadow: 0px 2px 4px #888888;
-   background-image:url(../img/ABELHA.jpg);
 }
 .progresso{
    display: flex;
@@ -111,7 +112,7 @@ h1{
 }
 .progresso #progresso-01{
    margin-left: 0;
-   border-radius: 0 10px 0 0 10px;
+   border-radius: 10px 0 0 10px;
 
 }
 .progresso #progresso-05{
@@ -187,5 +188,5 @@ footer a{
 }
 footer a:hover{
    color:#00ffdd;
-   transform: scale();
+   transform: scale(1.5);
 }
