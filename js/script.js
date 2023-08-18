@@ -218,8 +218,13 @@ function desfocarImagem(valoDesfoque){
      default:
        
    }
-  
+   
 }
+document.addEventListener("keyDown",(e) =>{
+   if(e.key === 'Enter'){
+     e.preventDefault();
+   }
+});
 
 
 
