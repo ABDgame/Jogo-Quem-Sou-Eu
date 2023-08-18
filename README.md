@@ -21,9 +21,9 @@ Desenvolvido em HTML, CSS E JAVASCRIPT
 #
 [ x ] 10 - https://www.youtube.com/watch?v=VtSkFTPq8gs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=10
 #
-[ ] 11 - https://www.youtube.com/watch?v=uktYK-Dmsbc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=11 
+[ x ] 11 - https://www.youtube.com/watch?v=uktYK-Dmsbc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=11 
 #
-[ ] 12 - https://www.youtube.com/watch?v=TchnTcKdVWk&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=12
+[ x ] 12 - https://www.youtube.com/watch?v=TchnTcKdVWk&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=12
 #
 [ ] 13 - https://www.youtube.com/watch?v=ND6aqcl-jVY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=13
 #
