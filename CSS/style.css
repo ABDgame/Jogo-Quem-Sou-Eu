@@ -217,5 +217,10 @@ footer a:hover{
    animation-duration: 0.4s;
 }
 @-webkit-keyframe animacao{
-   
+   from{top: -30px; opacity:0}
+   to{}
+}
+@keyframes animacao{
+   from{top: -30px; opacity:0}
+   top:top:0; opacity:1;
 }
