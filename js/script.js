@@ -223,7 +223,10 @@ function desfocarImagem(valoDesfoque){
 document.addEventListener("keyDown",(e) =>{
    if(e.key === 'Enter'){
      e.preventDefault();
-     resposta = document.querySelector("#resposta").value.ToUpperCase();
+     resposta = document.querySelector("#resposta").value.toUpperCase();
+     if(resposta.length < 3 || !resposta.trim() || resposta == undefined){
+       alert("Isto não é um nome");  
+     }
    }
 });
 
