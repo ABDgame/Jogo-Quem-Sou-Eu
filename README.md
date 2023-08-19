@@ -25,11 +25,11 @@ Desenvolvido em HTML, CSS E JAVASCRIPT
 #
 [ x ] 12 - https://www.youtube.com/watch?v=TchnTcKdVWk&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=12
 #
-[ ] 13 - https://www.youtube.com/watch?v=ND6aqcl-jVY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=13
+[ x ] 13 - https://www.youtube.com/watch?v=ND6aqcl-jVY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=13
 #
-[ ] 14 - https://www.youtube.com/watch?v=s8bTZ-bNYQU&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=14
+[ x ] 14 - https://www.youtube.com/watch?v=s8bTZ-bNYQU&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=14
 #
-[ ] 15 - https://www.youtube.com/watch?v=JMSH2W5Nwy0&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=15
+[ x ] 15 - https://www.youtube.com/watch?v=JMSH2W5Nwy0&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=15
 #
 [ ] 16 - https://www.youtube.com/watch?v=Yehhb2iThaE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=16
 #
