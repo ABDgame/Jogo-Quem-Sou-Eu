@@ -225,10 +225,40 @@ document.addEventListener("keyDown",(e) =>{
      e.preventDefault();
      resposta = document.querySelector("#resposta").value.toUpperCase();
      if(resposta.length < 3 || !resposta.trim() || resposta == undefined){
-       alert("Isto não é um nome");  
+       personalizaModal();  
      }
    }
 });
+
+const modal = document.getElementById("modal-alerta");
+const span = document.getElementsByClassName("close")[0];
+span.onclick = function(){
+   modal.style.display = "none";
+}
+window.onclick = function(event){
+    if (event.target == modal){
+      modal.style.display = "none";
+    }
+    
+}
+
+function personalizaModal(alerta){
+    const modalMensagem = document.getElementById("modal-mensagem");
+    switch(alerta){  
+        case "nomeInvalido":
+            modalMensagem.innerHTML = "<p>ESTE NOME ESTÁ ERRADO</p>";
+            break;
+        case"vitoria":
+            modalMensagem.innerHTML = "<p>VOCÊ É ÓTIMO NISTO!!!</p>";
+            break;
+        case"derrota":
+            modalMensagem.innerHTML = "<p>NÃO FOI DESTA VEZ</p>";
+            break;
+        default:
+            break;
+    }
+    modal.style.display = "block";
+}
 
 
 
