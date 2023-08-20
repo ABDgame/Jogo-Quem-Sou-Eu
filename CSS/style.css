@@ -178,7 +178,7 @@ footer{
    position: absolute;
    bottom: 10px;
    color: dimgray;
-   font-family: 'Poppins', sans-serif:
+   font-family: 'Poppins', sans-serif;
    font-size: 0.8em;
 }
 footer a{
@@ -216,11 +216,26 @@ footer a:hover{
    animation-name: animacao;
    animation-duration: 0.4s;
 }
-@-webkit-keyframe animacao{
+@-webkit-keyframes animacao{
    from{top: -30px; opacity:0}
-   to{}
+   to{top:0; opacity:1}
 }
 @keyframes animacao{
    from{top: -30px; opacity:0}
-   top:top:0; opacity:1;
+   top{top:0; opacity:1}
+}
+.close{
+   color: white;
+   float: right;
+   font-size: 2rem;
+   font-weight: bold;
+   font-family: 'Poppins', sans-serif;
+}
+.close:hover, .close:focus{
+   color: #000;
+   text-decoration: none;
+   cursor: pointer;
+}
+.modal -header{
+   padding:;
 }
