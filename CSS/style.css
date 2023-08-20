@@ -191,6 +191,7 @@ footer a:hover{
    transform: scale(1.5);
 }
 .modal-container{
+    display:none;
     position: fixed;
     z-index: 1;
     padding-top: 100px;
@@ -243,4 +244,8 @@ footer a:hover{
    letter-spacing: 0.3em;
    font-size:1.3rem;
    color: #000;
+}
+.modal-body{
+   padding:2px 16px;
+   font-family: 'Poppins', 'sans-serif';
 }
