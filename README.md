@@ -31,6 +31,6 @@ Desenvolvido em HTML, CSS E JAVASCRIPT
 #
 [ x ] 15 - https://www.youtube.com/watch?v=JMSH2W5Nwy0&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=15
 #
-[ ] 16 - https://www.youtube.com/watch?v=Yehhb2iThaE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=16
+[ x ] 16 - https://www.youtube.com/watch?v=Yehhb2iThaE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=16
 #
-[ ] 17 - https://www.youtube.com/watch?v=kaEr8sguQeg&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=17
+[ x ] 17 - https://www.youtube.com/watch?v=kaEr8sguQeg&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=17
