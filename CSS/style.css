@@ -32,9 +32,9 @@ body{
 h1{
    font-size: 5.5em;
    text-shadow: 0 0.1em 20px rgba(0, 0, 0, 1), 0.05em -0.03em 0 rgba(0,0,0,1),
-   0.05em 0.005em 0 rgba(0, 0, 0, 1), 0em 0.08em 0 rgba(0,0,0,1),
-   0.05em 0.08em 0 rgba(0, 0, 0, 1), 0px -0.03em 0 rgba(0,0,0,1),
-   -0.03em -0.03em 0 rgba(0, 0, 0, 1), -0.03em 0.08em 0 rgba(0,0,0,1), -0.03em 0 0 rgba(0, 0, 0, 1);
+   0.05em 0.005em 0 rgba(0,0,0,1), 0em 0.08em 0 rgba(0,0,0,1),
+   0.05em 0.008em 0 rgba(0,0,0,1), 0px -0.03em 0 rgba(0,0,0,1),
+   -0.03em -0.03em 0 rgba(0,0,0,1), -0.03em 0.08em 0 rgba(0,0,0,1), -0.03em 0 0 rgba(0,0,0,1);
 }
 .placar{
    display: flex;
@@ -116,7 +116,7 @@ form{
    top: 20px;
    left:0px;
    font-family: 'Poppins', sans-serif;
-   font-size: 16px;
+   font-size:16px;
    color: #00ffdd;
    transition: all 0.5s ease-in-out;
 }
@@ -138,7 +138,7 @@ form{
 }
 .input-container input:focus ~ label,
 .input-container input:valid ~label{
-   top:-12px;
+   top: 12px;
    font-size: 12px;
    color: #9c9c9c;
 }
@@ -164,7 +164,7 @@ footer{
    position: absolute;
    bottom: 10px;
    color: dimgray;
-   font-family: 'Poppins', 'sans-serif';
+   font-family: 'Poppins', sans-serif;
    font-size: 0.8em;
 }
 footer a{
@@ -197,7 +197,7 @@ footer a:hover{
    margin: auto;
    padding: 0;
    width: 40%;
-   box-shadow: 0 4px 8px 0 rgba(0,0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0 0.19);
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0,2), 0 6px 20px 0 rgba(0,0,0,0 0.19);
    -webkit-animation-name: animacao;
    -webkit-animation-duration: 0.4s;
    animation-name: animacao;
@@ -209,14 +209,14 @@ footer a:hover{
 }
 @keyframes animacao{
    from{top: -300px; opacity:0}
-   to{top:0; opacity:1}
+   top{top:0; opacity:1}
 }
 .close{
    color: white;
    float: right;
    font-size: 2rem;
    font-weight: bold;
-   font-family: 'Poppins', 'sans-serif';
+   font-family: 'Poppins', sans-serif;
 }
 .close:hover, .close:focus{
    color: #000;
@@ -228,10 +228,10 @@ footer a:hover{
    background-color: #ffd700;
    font-family: 'Luckiest Guy', cursive;
    letter-spacing: 0.3em;
-   font-size: 1.3rem;
+   font-size:1.3rem;
    color: #000;
 }
 .modal-body{
-   padding: 2px 16px;
+   padding:2px 16px;
    font-family: 'Poppins', 'sans-serif';
 }
