@@ -310,19 +310,19 @@ function barraDeProgresso(carregaBarra) {
   } else {
     switch (carregaBarra) {
       case 4:
-        document.getElementById("progresso-01").style.backgroundColor = "#ffd700";
+        document.getElementById("progresso-01").style.backgroundColor = "#00ffdd";
         break;
       case 3:
-        document.getElementById("progresso-02").style.backgroundColor = "#ffd700";
+        document.getElementById("progresso-02").style.backgroundColor = "#00ffdd";
         break;
       case 2:
-        document.getElementById("progresso-03").style.backgroundColor = "#ffd700";
+        document.getElementById("progresso-03").style.backgroundColor = "#00ffdd";
         break;
       case 1:
-        document.getElementById("progresso-04").style.backgroundColor = "#ffd700";
+        document.getElementById("progresso-04").style.backgroundColor = "#00ffdd";
         break;
       case 0:
-        document.getElementById("progresso-05").style.backgroundColor = "#ffd700";
+        document.getElementById("progresso-05").style.backgroundColor = "#00ffdd";
         break;
       default:
         break;
