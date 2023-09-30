@@ -1,5 +1,5 @@
 const listPersonagens = [
-  (personagem001 = {
+ (personagem001 = {
     nome: "ABELHA",
     imagem:"./img/ABELHA.jpg",
   }),
@@ -69,7 +69,7 @@ const listPersonagens = [
   }),
   (personagem018 = {
     nome: "BUQUE",
-    imagem = "./img/BUQUE.jpg",
+    imagem: "./img/BUQUE.jpg",
   }),
   (personagem019 = {
     nome:"BURRO",
@@ -81,7 +81,7 @@ const listPersonagens = [
   }),
   (personagem021 = {
     nome: "CABRITO",
-    imagem = "./img/CABRITO.jpg",
+    imagem: "./img/CABRITO.jpg",
   }),
   (personagem022 = {
     nome: "CACHOEIRA",
@@ -182,9 +182,11 @@ let imagemPersonagem;
 let tentativas = 5;
 console.log("tentativas =" + tentativas);
 let resposta;
+let erros = 0;
+let acertos = 0;
 
 SorteiaImagem();
-function SorteiaImagem(){
+function SorteiaImagem() {
   const index = parseInt(Math.random() * listPersonagens.length);
 
   nomePersonagem = listPersonagens[index].nome;
@@ -193,50 +195,51 @@ function SorteiaImagem(){
   console.log(nomePersonagem);
   console.log(imagemPersonagem);
 
-  document.getElementById("imagem").style.backgroundImagem = 
-    "url(" + imagemPersonagem +")";
-    //desfocar a imagem
+  document.getElementById("imagem").style.backgroundImage =
+    "url(" + imagemPersonagem + ")";
+
+  //fesfocar a imagem
   desfocarImagem(tentativas);
 }
 
-function desfocarImagem(valoDesfoque){
-  const imagem = document.getElementById("imagem")
-   
-   switch (valoDesfoque) {
-      case 5:
-       imagem.style.filter = "blur(40px)";
-       break;
-     case 4:
-       imagem.style.filter = "blur(30px)";
-       break;
-     case 3:
-       imagem.style.filter = "blur(20px)";
-       break;
-     case 2:
-       imagem.style.filter = "blur(17px)";
-       break;
-     case 1:
-       imagem.style.filter = "blur(14px)";
-       break; 
-     case 0:
-       imagem.style.filter = "blur(0px)";
-       break;
-     default:
-       break;
-       
-   }
-   
-}
-document.addEventListener("keyDown", (e) => {
-   if(e.key === "Enter") {
-     e.preventDefault();
-     resposta = document.querySelector("#resposta").value.toUpperCase();
+function desfocarImagem(valoDesfoque) {
+  const imagem = document.getElementById("imagem");
 
-     if(resposta.length < 3 || !resposta.trim() || resposta == undefined) {
-       personalizaModal("nomeInvalido");  
-     } else {
+  switch (valoDesfoque) {
+    case 5:
+      imagem.style.filter = "blur(40px)";
+      break;
+    case 4:
+      imagem.style.filter = "blur(30px)";
+      break;
+    case 3:
+      imagem.style.filter = "blur(20px)";
+      break;
+    case 2:
+      imagem.style.filter = "blur(17px)";
+      break;
+    case 1:
+      imagem.style.filter = "blur(14px)";
+      break;
+    case 0:
+      imagem.style.filter = "blur(0)";
+      break;
+    default:
+      break;
+  }
+}
+
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    e.preventDefault();
+    resposta = document.querySelector("#resposta").value.toUpperCase();
+    if (resposta.length < 3 || !resposta.trim() || resposta == undefined) {
+      personalizaModal("nomeInvalido");
+      document.getElementById("resposta").value = "";
+    } else {
       if (tentativas > 0) {
         if (resposta == nomePersonagem) {// se entrar aqui é porque ganhou
+          acertos++;
           personalizaModal("vitoria");
           document.getElementById("resposta").value = "";
           desfocarImagem(0);
@@ -250,6 +253,7 @@ document.addEventListener("keyDown", (e) => {
       }
 
       if (tentativas == 0) { // se entrar aqui é porque perdeu
+        erros++;
         personalizaModal("derrota");
         document.getElementById("resposta").value = "";
         desfocarImagem(0);
@@ -257,41 +261,43 @@ document.addEventListener("keyDown", (e) => {
       }
     }
     console.log("tentativas =" + tentativas);
+    document.querySelector("#derrotas").innerText = erros;
+    document.querySelector("#vitorias").innerText = acertos;
   }
 });
 
 const modal = document.getElementById("modal-alerta");
 const span = document.getElementsByClassName("close")[0];
-span.onclick = function() {
-   modal.style.display = "none";
+span.onclick = function () {
+  modal.style.display = "none";
 };
 
-window.onclick = function(event) {
-    if (event.target == modal) {
-      modal.style.display = "none";
-    }   
+window.onclick = function (event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
 };
 
-function personalizaModal(alerta){
-    const modalMensagem = document.getElementById("modal-mensagem");
+function personalizaModal(alerta) {
+  const modalMensagem = document.getElementById("modal-mensagem");
 
-    switch(alerta) {  
-        case "nomeInvalido":
-            modalMensagem.innerHTML = 
-            "<p>ESTE NOME ESTÁ ERRADO</p>";
-            break;
-        case"vitoria":
-            modalMensagem.innerHTML = 
-            "<p>VOCÊ É ÓTIMO NISTO!!!</p>";
-            break;
-        case"derrota":
-            modalMensagem.innerHTML = 
-            "<p>NÃO FOI DESTA VEZ</p>";
-            break;
-        default:
-            break;
-    }
-    modal.style.display = "block";
+  switch (alerta) {
+    case "nomeInvalido":
+      modalMensagem.innerHTML =
+        "<p> Está querendo me enganar ? </p><p>Digite um nome Válido.</p>";
+      break;
+    case "vitoria":
+      modalMensagem.innerHTML =
+        "<p> Você é bom nisso mesmo hein!</p><p>Nunca duvidei de você.</p>";
+      break;
+    case "derrota":
+      modalMensagem.innerHTML =
+        "<p> Não foi dessa vez</p><p>Aposto que voce consegue na próxima.</p>";
+      break;
+    default:
+      break;
+  }
+  modal.style.display = "block";
 }
 
 function barraDeProgresso(carregaBarra) {
@@ -323,21 +329,3 @@ function barraDeProgresso(carregaBarra) {
     }
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
