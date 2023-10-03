@@ -43,4 +43,4 @@ Desenvolvido em HTML, CSS E JAVASCRIPT
 #
 [ x ] 21 - https://www.youtube.com/watch?v=grATVt5GAdA&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=21
 #
-[ x ] 22 - https://www.youtube.com/watch?v=hpBY7-YoCkQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=22
+[  ] 22 - https://www.youtube.com/watch?v=hpBY7-YoCkQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=22
