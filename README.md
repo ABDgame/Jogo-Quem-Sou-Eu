@@ -44,3 +44,7 @@ Desenvolvido em HTML, CSS E JAVASCRIPT
 [ x ] 21 - https://www.youtube.com/watch?v=grATVt5GAdA&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=21
 #
 [  ] 22 - https://www.youtube.com/watch?v=hpBY7-YoCkQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=22
+#
+[  ] 23 - https://www.youtube.com/watch?v=mzhviuR6ohY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=23
+#
+[  ] 24 - https://www.youtube.com/watch?v=1KYCHSUwLhE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=24
