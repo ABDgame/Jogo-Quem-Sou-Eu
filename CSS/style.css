@@ -216,7 +216,7 @@ footer a:hover{
    float: right;
    font-size: 2rem;
    font-weight: bold;
-   font-family: 'Poppins', sans-serif;
+   font-family: 'Poppins', 'sans-serif';
 }
 .close:hover, .close:focus{
    color: #000;
@@ -234,4 +234,245 @@ footer a:hover{
 .modal-body{
    padding:2px 16px;
    font-family: 'Poppins', 'sans-serif';
+}
+@media (max-width: 320px){
+     h1 {
+        font-size: 2.0em;
+    }
+
+    .placar #vitorias, .placar #derrotas{
+        width: 120px;
+    }
+
+    .borda-imagem{
+        width: 300px;
+        height: 225px;
+    }
+
+    .borda-imagem #imagem{
+        background-size: 300px;
+    }
+
+    .progresso{
+        width: 260px;
+        height: 20px;
+    }
+
+    .progresso div{
+        height: 20px;
+    }
+    form{
+        width:100%;
+    }
+
+    .input-container { 
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .input-container input{ 
+        font-size: 16px;
+        width: 90%;
+    }
+
+    .input-container label{
+        top:10px;
+        padding-left: 15px;
+        font-size: 0.5em;
+    }
+
+    .input-container input:focus ~ label, 
+    .input-container input:valid ~ label{
+        top:-12px;
+        font-size:6px;  
+        color:#9c9c9c;
+    }
+
+    #jogarNovamente button{
+        width: 270px;
+    }
+
+    .modal {
+        width: 90%;
+    } 
+}
+
+@media (min-width: 321px) and (max-width: 375px){
+    h1 {
+        font-size: 2.5em;
+    }
+
+    .placar #vitorias, .placar #derrotas{
+        width: 140px;
+    }
+
+    .borda-imagem{
+        width: 320px;
+        height: 235px;
+    }
+
+    .borda-imagem #imagem{
+        background-size: 320px;
+    }
+
+    .progresso{
+        width: 280px;
+        height: 25px;
+    }
+
+    .progresso div{
+        height: 25px;
+    }
+    form{
+        width:100%;
+    }
+
+    .input-container { 
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .input-container input{ 
+        font-size: 18px;
+        width: 90%;
+    }
+
+    .input-container label{
+        top: 10px;
+        padding-left: 20px;
+        font-size: 0.6em;
+    }
+
+    .input-container input:focus ~ label, 
+    .input-container input:valid ~ label{
+        top:-12px;
+        font-size:8px;  
+        color:#9c9c9c;
+    }
+
+    #jogarNovamente button{
+        width: 300px;
+    }
+
+    .modal {
+        width: 90%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 425px){
+    h1 {
+        font-size: 3em;
+    }
+
+    .placar #vitorias, .placar #derrotas{
+        width: 160px;
+    }
+
+    .borda-imagem{
+        width: 380px;
+        height: 280px;
+    }
+
+    .borda-imagem #imagem{
+        background-size: 380px;
+    }
+
+    .progresso{
+        width: 280px;
+        height: 25px;
+    }
+
+    .progresso div{
+        height: 25px;
+    }
+    form{
+        width:100%;
+    }
+
+    .input-container { 
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .input-container input{ 
+        font-size: 20px;
+        width: 90%;
+    }
+
+    .input-container label{
+        top:10px;
+        padding-left: 20px;
+        font-size: 0.7em;
+    }
+
+    .input-container input:focus ~ label, 
+    .input-container input:valid ~ label{
+        top:-12px;
+        font-size:10px; 
+        color:#9c9c9c;
+    }
+
+    #jogarNovamente button{
+        width: 350px;
+    }
+
+    .modal {
+        width: 90%;
+    }
+}
+
+@media (min-width: 426px) and (max-width: 665px){
+
+    h1 {
+        font-size: 4.4em;
+    }
+
+    .placar #vitorias, .placar #derrotas{
+        width: 200px;
+    }
+
+    .borda-imagem{
+        width: 500px;
+        height: 360px;
+    }
+
+    .borda-imagem #imagem{
+        background-size: 500px;
+    }
+
+    .progresso{
+        width: 450px;
+        height: 30px;
+    }
+
+    .progresso div{
+        height: 30px;
+    }
+    form{
+        width:100%;
+    }
+
+    .input-container { 
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .input-container input{ 
+        font-size: 25px;
+        width: 90%;
+    }
+
+    .input-container label{
+        top:10px;
+        padding-left: 30px;
+    }
+
+    #jogarNovamente button{
+        width: 400px;
+    }
+
+    .modal {
+        width: 90%;
+    }
+    
 }
