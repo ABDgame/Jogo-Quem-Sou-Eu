@@ -1,5 +1,6 @@
 # Jogo-Quem-Sou-Eu
-Desenvolvido em HTML, CSS E JAVASCRIPT 
+Desenvolvido em HTML, CSS E JAVASCRIPT
+Código Fonte by @AgnaldoGuimaraes
 #
 [ x ] 1 - https://www.youtube.com/watch?v=0F0bsrV9lMY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=1
 #
@@ -48,3 +49,5 @@ Desenvolvido em HTML, CSS E JAVASCRIPT
 [  ] 23 - https://www.youtube.com/watch?v=mzhviuR6ohY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=23
 #
 [  ] 24 - https://www.youtube.com/watch?v=1KYCHSUwLhE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=24
+#
+[  ] 25 - https://www.youtube.com/watch?v=euplbcuvdhs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=25
