@@ -44,10 +44,10 @@ Código Fonte by @AgnaldoGuimaraes
 #
 [ x ] 21 - https://www.youtube.com/watch?v=grATVt5GAdA&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=21
 #
-[  ] 22 - https://www.youtube.com/watch?v=hpBY7-YoCkQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=22
+[ x ] 22 - https://www.youtube.com/watch?v=hpBY7-YoCkQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=22
 #
-[  ] 23 - https://www.youtube.com/watch?v=mzhviuR6ohY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=23
+[ x ] 23 - https://www.youtube.com/watch?v=mzhviuR6ohY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=23
 #
-[  ] 24 - https://www.youtube.com/watch?v=1KYCHSUwLhE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=24
+[ x ] 24 - https://www.youtube.com/watch?v=1KYCHSUwLhE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=24
 #
-[  ] 25 - https://www.youtube.com/watch?v=euplbcuvdhs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=25
+[ x ] 25 - https://www.youtube.com/watch?v=euplbcuvdhs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=25
