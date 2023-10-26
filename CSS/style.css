@@ -12,30 +12,28 @@
 }
 
 body{
-   background-color: #ffffff; 
+   background-image: url("bg.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   min-height: 100vh;
+   height: 90vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   overflow: hidden;
 }
 
 .container{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
-.titulo{
-   width: 100%;
-   text-align: center;
-   font-family: 'Luckiest Guy', cursive;
-   color: #00ffdd;
-   margin: 10px;
-   letter-spacing: .4rem;
-}
-h1{
-   font-size: 5.5em;
-   text-shadow: 0 0.1em 20px rgba(0, 0, 0, 1), 0.05em -0.03em 0 rgba(0,0,0,1),
-   0.05em 0.005em 0 rgba(0,0,0,1), 0em 0.08em 0 rgba(0,0,0,1),
-   0.05em 0.008em 0 rgba(0,0,0,1), 0px -0.03em 0 rgba(0,0,0,1),
-   -0.03em -0.03em 0 rgba(0,0,0,1), -0.03em 0.08em 0 rgba(0,0,0,1), -0.03em 0 0 rgba(0,0,0,1);
-}
+
 .placar{
    display: flex;
    justify-content: center;
@@ -85,14 +83,13 @@ h1{
    width: 500px;
    height: 30px;
    margin: 10px;
-   background-color: #c9c9c9;
+   background-color: transparent;
    border-radius: 10px;
-   box-shadow: 0 2px 4px #888888;
 }
 .progresso div{
    width: 20%;
    height: 30px;
-   background-color: #fff;
+   background-color: transparent;
    margin-right:1px;
 }
 .progresso #progresso-01{
@@ -117,17 +114,18 @@ form{
    left:0px;
    font-family: 'Poppins', sans-serif;
    font-size:16px;
-   color: #00ffdd;
+   text-align: center;
+   color: #000;
    transition: all 0.5s ease-in-out;
 }
 .input-container input{
    border:0;
    border-bottom:1px solid #9c9c9c;
-   background: transparent;
+   background: #fff;
    width:100%;
    padding: 8px 0 5px 0;
    font-size: 32px;
-   color: #9c9c9c;
+   color: #000;
    text-align: center;
    text-transform: uppercase;
 }
@@ -140,10 +138,9 @@ form{
 .input-container input:valid ~label{
    top: 12px;
    font-size: 12px;
-   color: #9c9c9c;
+   color: transparent;
 }
 #jogarNovamente button{
-   /* display: none; */
    background: #00ffdd;
    width: 430px;
    margin-top: 10px;
@@ -163,13 +160,13 @@ footer{
    display: flex;
    position: absolute;
    bottom: 10px;
-   color: dimgray;
+   color: white;
    font-family: 'Poppins', sans-serif;
    font-size: 0.8em;
 }
 footer a{
    margin: 0 5px;
-   color: dimgray;
+   color: white;
    transition: transform .2s;
 }
 footer a:hover{
