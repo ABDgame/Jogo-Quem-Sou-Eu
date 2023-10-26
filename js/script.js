@@ -64,114 +64,110 @@ const listPersonagens = [
     imagem:"./img/BUMERANGUE.jpg",
   }),
   (personagem017 = {
-    nome: "BUQUE",
+    nome: "BUQUÊ",
     imagem: "./img/BUQUE.jpg",
   }),
   (personagem018 = {
-    nome: "BUQUE",
-    imagem: "./img/BUQUE.jpg",
-  }),
-  (personagem019 = {
     nome:"BURRO",
     imagem:"./img/BURRO.jpg",
   }),
-  (personagem020 = {
+  (personagem019 = {
     nome: "BUSSULA",
     imagem: "./img/BUSSULA.jpg",
   }),
-  (personagem021 = {
+  (personagem020 = {
     nome: "CABRITO",
     imagem: "./img/CABRITO.jpg",
   }),
-  (personagem022 = {
+  (personagem021 = {
     nome: "CACHOEIRA",
     imagem: "./img/CACHOEIRA.jpg",
   }),
-  (personagem023 = {
+  (personagem022 = {
     nome: "CACHORRO",
     imagem: "./img/CACHORRO.jpg",
   }),
-  (personagem024 = {
+  (personagem023 = {
     nome:"CAMINHÃO",
     imagem:"./img/CAMINHAO.jpg",
   }),
-  (personagem025 = {
+  (personagem024 = {
     nome: "CANHÃO",
     imagem:"./img/CANHAO.jpg",
   }),
-  (personagem026 = {
+  (personagem025 = {
     nome:"CARANGUEJO",
     imagem:"./img/CARANGUEJO.jpg",
   }),
-  (personagem027 = {
+  (personagem026 = {
     nome: "CARROSSEL",
     imagem: "./img/CARROSSEL.jpg",
   }),
-  (personagem028 = {
+  (personagem027 = {
     nome: "CEGONHA",
     imagem: "./img/CEGONHA.jpg",
   }),
-  (personagem029 = {
+  (personagem028 = {
     nome: "COBRA",
     imagem:"./img/COBRA.jpg",
   }),
-  (personagem030 = {
+  (personagem029 = {
     nome:"COELHO",
     imagem:"./img/COELHO.jpg",
   }),
-  (personagem031 = {
+  (personagem030 = {
     nome: "COZINHA",
     imagem:"./img/COZINHA.jpg",
   }),
-  (personagem032 = {
+  (personagem031 = {
     nome: "DEGRAUS",
     imagem:"./img/DEGRAUS.jpg",
   }),
-  (personagem033 = {
+  (personagem032 = {
     nome:"DEPRESSA",
     imagem:"./img/DEPRESSA.jpg",
   }),
-  (personagem034 = {
+  (personagem033 = {
     nome: "DESENHO",
     imagem: "./img/DESENHO.jpg",
   }),
-  (personagem035 = {
+  (personagem034 = {
     nome: "DESTRUÍDA",
     imagem: "./img/DESTRUIDA.jpg",
   }),
-  (personagem036 = {
+  (personagem035 = {
     nome: "DEZEMBRO",
     imagem: "./img/DEZEMBRO.jpg"
   }),
-  (personagem037 = {
+  (personagem036 = {
     nome: "DINHEIRO",
     imagem:"./img/DINHEIRO.jpg",
   }),
-  (personagem038 = {
+  (personagem037 = {
     nome: "DINOSSAURO",
     imagem: "./img/DINOSSAURO.jpg",
   }),
-  (personagem039 = {
+  (personagem038 = {
     nome: "DOBRADURA",
     imagem: "./img/DOBRADURA.jpg",
   }),
-  (personagem040 = {
+  (personagem039 = {
     nome: "ESCORREGADOR",
     imagem:"./img/ESCORREGADOR.jpg",
   }),
-  (personagem041 = {
+  (personagem040 = {
     nome: "ESPAGUETE",
     imagem: "./img/ESPAGUETE.jpg",
   }),
-  (personagem042 = {
+  (personagem041 = {
     nome:"ESPANTALHO",
     imagem: "./img/ESPANTALHO.jpg",
   }),
-  (personagem043 = {
+  (personagem042 = {
     nome: "ESPELHO",
     imagem: "./img/ESPELHO.jpg",
   }),
-  (personagem044 = {
+  (personagem043 = {
     nome:"ESQUILO",
     imagem: "./img/ESQUILO.jpg",
   }),
@@ -310,11 +306,11 @@ function personalizaModal(alerta) {
 
 function barraDeProgresso(carregaBarra) {
   if (carregaBarra == 5) {
-    document.getElementById("progresso-01").style.backgroundColor = "#ffffff";
-    document.getElementById("progresso-02").style.backgroundColor = "#ffffff";
-    document.getElementById("progresso-03").style.backgroundColor = "#ffffff";
-    document.getElementById("progresso-04").style.backgroundColor = "#ffffff";
-    document.getElementById("progresso-05").style.backgroundColor = "#ffffff";
+    document.getElementById("progresso-01").style.backgroundColor = "transparent";
+    document.getElementById("progresso-02").style.backgroundColor = "transparent";
+    document.getElementById("progresso-03").style.backgroundColor = "transparent";
+    document.getElementById("progresso-04").style.backgroundColor = "transparent";
+    document.getElementById("progresso-05").style.backgroundColor = "transparent";
   } else {
     switch (carregaBarra) {
       case 4:
