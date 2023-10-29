@@ -348,7 +348,7 @@ document.querySelector("#btnJogarNovamente").addEventListener("click", function(
   document.getElementById("resposta").focus();
   barraDeProgresso(5)
   document.querySelector("#btnJogarNovamente").style.display = "none";
-  document.querySelector(".borda-imagem").style.border = "10px solid #ffd700"
+  document.querySelector(".borda-imagem").style.border = "10px solid #00ffdd"
 });
 
 function mudaStatusInput(condicao){
