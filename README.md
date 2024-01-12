@@ -3,7 +3,6 @@ Desenvolvido em HTML, CSS E JAVASCRIPT
 Código Fonte by @AgnaldoGuimaraes
 
 # Código Fonte 
-#
 - 1 https://www.youtube.com/watch?v=0F0bsrV9lMY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=1
 #
 - 2 https://www.youtube.com/watch?v=PGYjqE7BeEQ&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=2
@@ -59,7 +58,7 @@ https://www.youtube.com/watch?v=2QMb8__rZmc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_f
  - https://mycolor.space
 
 # Editor de Imagens Online:
- - https://www.resizepixel.com/pt/edit
+- https://www.resizepixel.com/pt/edit
 
 # Imagens:
 - https://www.freepik.com/
