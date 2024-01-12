@@ -58,7 +58,8 @@ https://www.youtube.com/watch?v=2QMb8__rZmc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_f
  - https://mycolor.space
 
 # Editor de Imagens Online:
-- https://www.resizepixel.com/pt/edit
+-
+https://www.resizepixel.com/pt/edit
 
 # Imagens:
 - https://www.freepik.com/
