@@ -1,6 +1,8 @@
 # Jogo-Quem-Sou-Eu
 Desenvolvido em HTML, CSS E JAVASCRIPT
 Código Fonte by @AgnaldoGuimaraes
+
+# Código Fonte 
 #
 - 1 https://www.youtube.com/watch?v=0F0bsrV9lMY&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=1
 #
@@ -52,3 +54,23 @@ https://www.youtube.com/watch?v=2QMb8__rZmc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_f
 - 24 https://www.youtube.com/watch?v=1KYCHSUwLhE&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=24
 #
 - 25 https://www.youtube.com/watch?v=euplbcuvdhs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=25
+
+# ObaPizzaria
+Trechos de códigos de um site responsivo de uma pizzaria, adaptado por MQJogos, desenvolvido com 1.4% de variáveis CSS, 1.3% de práticas JavaScript, 85.3% de elementos HTML e 12.0% de SCSS.  
+
+
+# Color Palette:
+ - https://mycolor.space
+
+# Editor de Imagens Online:
+ - https://www.resizepixel.com/pt/edit
+
+# Imagens:
+- https://www.freepik.com/
+- https://www.storyset.com/
+- https://www.undraw.com/
+- https://www.pixabay.com/
+- https://www.unsplash.com/
+- https://www.flaticon.com/
+- https://www.pngegg.com/
+
