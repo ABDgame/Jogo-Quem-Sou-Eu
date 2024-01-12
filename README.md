@@ -55,10 +55,6 @@ https://www.youtube.com/watch?v=2QMb8__rZmc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_f
 #
 - 25 https://www.youtube.com/watch?v=euplbcuvdhs&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_fUvT&index=25
 
-# ObaPizzaria
-Trechos de códigos de um site responsivo de uma pizzaria, adaptado por MQJogos, desenvolvido com 1.4% de variáveis CSS, 1.3% de práticas JavaScript, 85.3% de elementos HTML e 12.0% de SCSS.  
-
-
 # Color Palette:
  - https://mycolor.space
 
