@@ -70,3 +70,9 @@ https://www.resizepixel.com/pt/edit
 - https://www.flaticon.com/
 - https://www.pngegg.com/
 
+# Redes Sociais:
+- https://www.instagram.com/mqjogos/
+- https://www.linkedin.com/in/debora-inocencio/
+- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+- https://github.com/MQJogos
+
