@@ -323,10 +323,28 @@ const listPersonagens = [
     nome:"CARANGUEJO",
     imagem:"./img/CARANGUEJO.jpg",
   }),
-  (personagem026 = {
+  (personagem080 = {
+    nome: "CARNEIROO",
+    imagem:"./img/CARNEIRO.jpg",
+  }),
+  (personagem081 = {
     nome: "CARROSSEL",
     imagem: "./img/CARROSSEL.jpg",
   }),
+ (personagem082 = {
+    nome: "CASA",
+    imagem:"./img/CASA.jpg",
+  }),
+ (personagem083 = {
+    nome: "CASACO",
+    imagem:"./img/CASACO.jpg",
+  }),
+ (personagem084 = {
+    nome: "CASTELO",
+    imagem:"./img/CASTELO.jpg",
+  }),
+
+ 
   (personagem027 = {
     nome: "CEGONHA",
     imagem: "./img/CEGONHA.jpg",
