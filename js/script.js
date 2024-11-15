@@ -267,43 +267,59 @@ const listPersonagens = [
     nome: "CACHORRO",
     imagem: "./img/CACHORRO.jpg",
   }),
- (personagem026 = {
-    nome: "BINÓCULO",
-    imagem:"./img/BINOCULO.jpg",
+ (personagem066 = {
+    nome: "CADEIRA",
+    imagem:"./img/CADEIRA.jpg",
   }),
- (personagem026 = {
-    nome: "BINÓCULO",
-    imagem:"./img/BINOCULO.jpg",
+ (personagem067 = {
+    nome: "CADERNO",
+    imagem:"./img/CADERNO.jpg",
   }),
- (personagem026 = {
-    nome: "BINÓCULO",
-    imagem:"./img/BINOCULO.jpg",
+ (personagem068 = {
+    nome: "CALÇA",
+    imagem:"./img/CALCA.jpg",
   }),
- (personagem026 = {
-    nome: "BINÓCULO",
-    imagem:"./img/BINOCULO.jpg",
+ (personagem069 = {
+    nome: "CALOR",
+    imagem:"./img/CALOR.jpg",
   }),
- (personagem026 = {
-    nome: "BINÓCULO",
-    imagem:"./img/BINOCULO.jpg",
+ (personagem070 = {
+    nome: "CAMA",
+    imagem:"./img/CAMA.jpg",
   }),
- (personagem026 = {
-    nome: "BINÓCULO",
-    imagem:"./img/BINOCULO.jpg",
+ (personagem071 = {
+    nome: "CAMALEÃO",
+    imagem:"./img/CAMALEAO.jpg",
   }),
- (personagem026 = {
-    nome: "BINÓCULO",
-    imagem:"./img/BINOCULO.jpg",
+ (personagem072 = {
+    nome: "CAMARÃO",
+    imagem:"./img/CAMARAO.jpg",
   }),
-  (personagem023 = {
+  (personagem073 = {
     nome:"CAMINHÃO",
     imagem:"./img/CAMINHAO.jpg",
   }),
-  (personagem024 = {
+ (personagem074 = {
+    nome: "CAMISETA",
+    imagem:"./img/CAMISETA.jpg",
+  }),
+ (personagem075 = {
+    nome: "CANGURU",
+    imagem:"./img/CANGURU.jpg",
+  }),
+  (personagem076 = {
     nome: "CANHÃO",
     imagem:"./img/CANHAO.jpg",
   }),
-  (personagem025 = {
+ (personagem077 = {
+    nome: "CANOA",
+    imagem:"./img/CANOA.jpg",
+  }),
+ (personagem078 = {
+    nome: "CARAMUJO",
+    imagem:"./img/CARAMUJO.jpg",
+  }),
+  (personagem079 = {
     nome:"CARANGUEJO",
     imagem:"./img/CARANGUEJO.jpg",
   }),
