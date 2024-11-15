@@ -95,77 +95,205 @@ const listPersonagens = [
     nome:"BARRACA",
     imagem: "./img/BARRACA.jpg",
   }),
-  (personagem005 = {
+  (personagem025 = {
     nome: "BARRIL",
     imagem:"./img/BARRIL.jpg",
   }),
-  (personagem006 = {
+  (personagem026 = {
     nome: "BASQUETE",
     imagem:"./img/BASQUETE.jpg",
   }),
-  (personagem007 = {
+ (personagem027 = {
+    nome: "BATATA",
+    imagem:"./img/BATATA.jpg",
+  }),
+ (personagem028 = {
+    nome: "BATEDEIRA",
+    imagem:"./img/BATEDEIRA.jpg",
+  }),
+ (personagem029 = {
+    nome: "BATERIA",
+    imagem:"./img/BATERIA.jpg",
+  }),
+ (personagem030 = {
+    nome: "BEBÊ",
+    imagem:"./img/BEBÊ.jpg",
+  }),
+  (personagem031 = {
     nome: "BELICHE",
     imagem:"./img/BELICHE.jpg",
   }),
-  (personagem008 = {
+ (personagem032 = {
+    nome: "BERINJELA",
+    imagem:"./img/BERINJELA.jpg",
+  }),
+ (personagem033 = {
+    nome: "BERMUDA",
+    imagem:"./img/BERMUDA.jpg",
+  }),
+ (personagem034 = {
+    nome: "BESOURA",
+    imagem:"./img/BESOURO.jpg",
+  }),
+  (personagem035 = {
     nome: "BETERRABA",
     imagem:"./img/BETERRABA.jpg",
   }),
-  (personagem009 = {
+ (personagem036 = {
+    nome: "BEXIGAS",
+    imagem:"./img/BEXIGAS.jpg",
+  }),
+  (personagem037 = {
     nome: "BIBLIOTECA",
     imagem:"./img/BIBLIOTECA.jpg",
   }),
-  (personagem010 = {
+  (personagem038 = {
     nome: "BICICLETA",
     imagem: "./img/BICICLETA.jpg",
   }),
-  (personagem011 = {
+ (personagem039 = {
+    nome: "BIFE",
+    imagem:"./img/BIFE.jpg",
+  }),
+ (personagem040 = {
+    nome: "BINÓCULO",
+    imagem:"./img/BINOCULO.jpg",
+  }),
+  (personagem041 = {
     nome: "BIQUINI",
     imagem: "./img/BIQUINI.jpg",
   }),
-  (personagem012 = {
+ (personagem042 = {
+    nome: "BISCOITO",
+    imagem:"./img/BISCOITO.jpg",
+  }),
+ (personagem043 = {
+    nome: "BOBO",
+    imagem:"./img/BOBO.jpg",
+  }),
+ (personagem044 = {
+    nome: "BOCA",
+    imagem:"./img/BOCA.jpg",
+  }),
+ (personagem045 = {
+    nome: "BOLA",
+    imagem:"./img/BOLA.jpg",
+  }),
+  (personagem046 = {
     nome: "BOLACHA",
     imagem: "./img/BOLACHA.jpg",
   }),
-  (personagem013 = {
+  (personagem047 = {
     nome:"BOLICHE",
     imagem:"./img/BOLICHE.jpg",
   }),
-  (personagem014 = {
+ (personagem048 = {
+    nome: "BOLO",
+    imagem:"./img/BOLO.jpg",
+  }),
+ (personagem049 = {
+    nome: "BOLSA",
+    imagem:"./img/BOLSA.jpg",
+  }),
+ (personagem050 = {
+    nome: "BOMBA",
+    imagem:"./img/BOMBA.jpg",
+  }),
+  (personagem051 = {
     nome: "BOMBEIRO",
     imagem:"./img/BOMBEIRO.jpg",
   }),
-  personagem015 = {
+ (personagem052 = {
+    nome: "BONECA",
+    imagem:"./img/BONECA.jpg",
+  }),
+ (personagem053 = {
+    nome: "BORBOLETA",
+    imagem:"./img/BORBOLETA.jpg",
+  }),
+  personagem054 = {
     nome: "BORRACHA",
     imagem:"./img/BORRACHA.jpg",
   },
-  (personagem016 = {
+ (personagem055 = {
+    nome: "BOTA",
+    imagem:"./img/BOTA.jpg",
+  }),
+ (personagem056 = {
+    nome: "BOTÃO",
+    imagem:"./img/BOTAO.jpg",
+  }),
+ (personagem057 = {
+    nome: "BOXE",
+    imagem:"./img/BOXE.jpg",
+  }),
+ (personagem058 = {
+    nome: "BUDA",
+    imagem:"./img/BUDA.jpg",
+  }),
+ (personagem059 = {
+    nome: "BULE",
+    imagem:"./img/BULE.jpg",
+  }),
+  (personagem060 = {
     nome: "BUMERANGUE",
     imagem:"./img/BUMERANGUE.jpg",
   }),
-  (personagem017 = {
+  (personagem061 = {
     nome: "BUQUÊ",
     imagem: "./img/BUQUE.jpg",
   }),
-  (personagem018 = {
+  (personagem062 = {
     nome:"BURRO",
     imagem:"./img/BURRO.jpg",
   }),
-  (personagem019 = {
+  (personagem063 = {
     nome: "BUSSULA",
     imagem: "./img/BUSSULA.jpg",
   }),
-  (personagem020 = {
+ (personagem064 = {
+    nome: "CABANA",
+    imagem:"./img/CABANA.jpg",
+  }),
+  (personagem065 = {
     nome: "CABRITO",
     imagem: "./img/CABRITO.jpg",
   }),
-  (personagem021 = {
+  (personagem066 = {
     nome: "CACHOEIRA",
     imagem: "./img/CACHOEIRA.jpg",
   }),
-  (personagem022 = {
+  (personagem065 = {
     nome: "CACHORRO",
     imagem: "./img/CACHORRO.jpg",
+  }),
+ (personagem026 = {
+    nome: "BINÓCULO",
+    imagem:"./img/BINOCULO.jpg",
+  }),
+ (personagem026 = {
+    nome: "BINÓCULO",
+    imagem:"./img/BINOCULO.jpg",
+  }),
+ (personagem026 = {
+    nome: "BINÓCULO",
+    imagem:"./img/BINOCULO.jpg",
+  }),
+ (personagem026 = {
+    nome: "BINÓCULO",
+    imagem:"./img/BINOCULO.jpg",
+  }),
+ (personagem026 = {
+    nome: "BINÓCULO",
+    imagem:"./img/BINOCULO.jpg",
+  }),
+ (personagem026 = {
+    nome: "BINÓCULO",
+    imagem:"./img/BINOCULO.jpg",
+  }),
+ (personagem026 = {
+    nome: "BINÓCULO",
+    imagem:"./img/BINOCULO.jpg",
   }),
   (personagem023 = {
     nome:"CAMINHÃO",
