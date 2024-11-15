@@ -1,17 +1,97 @@
 const listPersonagens = [
  (personagem001 = {
+    nome: "ABACATE",
+    imagem:"./img/ABABATE.jpg",
+  }),
+ (personagem002 = {
+    nome: "ABACAXI",
+    imagem:"./img/ABACAXI.jpg",
+  }),
+ (personagem003 = {
     nome: "ABELHA",
     imagem:"./img/ABELHA.jpg",
   }),
-  (personagem002 = {
+ (personagem004 = {
+    nome: "ABÓBORA",
+    imagem:"./img/ABOBORA.jpg",
+  }),
+  (personagem005 = {
     nome: "ARANHA",
     imagem:"./img/ARANHA.jpg",
   }),
-  (personagem003 = {
+ (personagem006 = {
+    nome: "ARARA",
+    imagem:"./img/ARARA.jpg",
+  }),
+ (personagem007 = {
+    nome: "ARMÁRIO",
+    imagem:"./img/ARMARIO.jpg",
+  }),
+ (personagem008 = {
+    nome: "ÁRVORE",
+    imagem:"./img/ARVORE.jpg",
+  }),
+  (personagem009 = {
     nome: "ASTRONAUTA",
     imagem:"./img/ASTRONAUTA.jpg",
   }),
-  (personagem004 = {
+ (personagem010 = {
+    nome: "AVIÃO",
+    imagem:"./img/AVIAO.jpg",
+  }),
+ (personagem011 = {
+    nome: "AZEITONA",
+    imagem:"./img/AZEITONA.jpg",
+  }),
+ (personagem012 = {
+    nome: "BAILARINA",
+    imagem:"./img/BAILARINA.jpg",
+  }),
+ (personagem013 = {
+    nome: "BALA",
+    imagem:"./img/BALA.jpg",
+  }),
+ (personagem014 = {
+    nome: "BALANÇO",
+    imagem:"./img/BALANCO.jpg",
+  }),
+ (personagem015 = {
+    nome: "BALÃO",
+    imagem:"./img/BALAO.jpg",
+  }),
+ (personagem016 = {
+    nome: "BALDE",
+    imagem:"./img/BALDE.jpg",
+  }),
+ (personagem017 = {
+    nome: "BALEIA",
+    imagem:"./img/BALEIA.jpg",
+  }),
+ (personagem018 = {
+    nome: "BAMBOLÊ",
+    imagem:"./img/BAMBOLE.jpg",
+  }),
+ (personagem019 = {
+    nome: "BANANA",
+    imagem:"./img/BANANA.jpg",
+  }),
+  (personagem020 = {
+    nome: "BANCO",
+    imagem:"./img/BANCO.jpg",
+  }),
+  (personagem021 = {
+    nome: "BARATA",
+    imagem:"./img/BARBEIRO.jpg",
+  }),
+  (personagem022 = {
+    nome: "BARBEIRO",
+    imagem:"./img/BARBEIRO.jpg",
+  }),
+  (personagem023 = {
+    nome: "BARCO",
+    imagem:"./img/BARCO.jpg",
+  }),
+  (personagem024 = {
     nome:"BARRACA",
     imagem: "./img/BARRACA.jpg",
   }),
