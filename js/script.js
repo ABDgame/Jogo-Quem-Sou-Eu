@@ -343,17 +343,67 @@ const listPersonagens = [
     nome: "CASTELO",
     imagem:"./img/CASTELO.jpg",
   }),
-
- 
-  (personagem027 = {
+ (personagem085 = {
+    nome: "CATAVENTO",
+    imagem:"./img/CATAVENTO.jpg",
+  }),
+ (personagem086 = {
+    nome: "CAVALO",
+    imagem:"./img/CAVALO.jpg",
+  }),
+ (personagem087 = {
+    nome: "CEBOLA",
+    imagem:"./img/CEBOLA.jpg",
+  }),
+  (personagem088 = {
     nome: "CEGONHA",
     imagem: "./img/CEGONHA.jpg",
   }),
-  (personagem028 = {
+ (personagem089 = {
+    nome: "CENOURA",
+    imagem:"./img/CENOURA.jpg",
+  }),
+ (personagem090 = {
+    nome: "CENTOPEIA",
+    imagem:"./img/CENTOPEIA.jpg",
+  }),
+ (personagem091 = {
+    nome: "CERCA",
+    imagem:"./img/CERCA.jpg",
+  }),
+ (personagem092 = {
+    nome: "CEREAL",
+    imagem:"./img/CEREAL.jpg",
+  }),
+ (personagem093 = {
+    nome: "CEREJAS",
+    imagem:"./img/CEREJAS.jpg",
+  }),
+ (personagem094 = {
+    nome: "CESTA",
+    imagem:"./img/CESTA.jpg",
+  }),
+  (personagem095 = {
+    nome: "CIGANA",
+    imagem:"./img/CIGANA.jpg",
+  }),
+ (personagem096 = {
+    nome: "CIRCO",
+    imagem:"./img/CIRCO.jpg",
+  }),
+ (personagem097 = {
     nome: "COBRA",
     imagem:"./img/COBRA.jpg",
   }),
-  (personagem029 = {
+ (personagem098 = {
+    nome: "COCA",
+    imagem:"./img/COCA.jpg",
+  }),
+ (personagem099 = {
+    nome: "COCO",
+    imagem:"./img/COCO.jpg",
+  }),
+  (personagem100 = {
     nome:"COELHO",
     imagem:"./img/COELHO.jpg",
   }),
