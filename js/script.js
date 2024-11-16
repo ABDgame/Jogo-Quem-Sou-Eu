@@ -407,9 +407,53 @@ const listPersonagens = [
     nome:"COELHO",
     imagem:"./img/COELHO.jpg",
   }),
-  (personagem030 = {
+ (personagem101 = {
+    nome:"COGUMELOS",
+    imagem:"./img/COGUMELOS.jpg",
+  }),
+ (personagem102 = {
+    nome:"COLAR",
+    imagem:"./img/COLAR.jpg",
+  }),
+ (personagem103 = {
+    nome:"COLMEIA",
+    imagem:"./img/COLMEIA.jpg",
+  }),
+ (personagem104 = {
+    nome:"CONFEITEIRO",
+    imagem:"./img/CONFEITEIRO.jpg",
+  }),
+ (personagem105 = {
+    nome:"CORAÇÃO",
+    imagem:"./img/CORACAO.jpg",
+  }),
+ (personagem106 = {
+    nome:"CORDEIRO",
+    imagem:"./img/CORDEIRO.jpg",
+  }),
+ (personagem107 = {
+    nome:"COROA",
+    imagem:"./img/COROA.jpg",
+  }),
+ (personagem108 = {
+    nome:"CORTINA",
+    imagem:"./img/CORTINA.jpg",
+  }),
+ (personagem109 = {
+    nome:"CORUJA",
+    imagem:"./img/CORUJA.jpg",
+  }),
+ (personagem110 = {
+    nome:"COUVE-FLOR",
+    imagem:"./img/COUVEFLOR.jpg",
+  }),
+  (personagem111 = {
     nome: "COZINHA",
     imagem:"./img/COZINHA.jpg",
+  }),
+ (personagem112 = {
+    nome:"CUBO",
+    imagem:"./img/CUBO.jpg",
   }),
   (personagem031 = {
     nome: "DEGRAUS",
