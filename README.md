@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=2QMb8__rZmc&list=PLUPt90PJkVdVrgAS5lqcD_sqKmZY_f
 https://www.resizepixel.com/pt/edit
 
 # Imagens:
-- https://www.freepik.com/
+- https://www.freepik.com/author/brgfx
 - https://www.storyset.com/
 - https://www.undraw.com/
 - https://www.pixabay.com/
