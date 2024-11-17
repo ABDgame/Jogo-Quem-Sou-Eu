@@ -455,53 +455,101 @@ const listPersonagens = [
     nome:"CUBO",
     imagem:"./img/CUBO.jpg",
   }),
-  (personagem031 = {
-    nome: "DEGRAUS",
-    imagem:"./img/DEGRAUS.jpg",
+ (personagem113 = {
+    nome:"CUPIDO",
+    imagem:"./img/CUPIDO.jpg",
   }),
-  (personagem032 = {
-    nome:"DEPRESSA",
-    imagem:"./img/DEPRESSA.jpg",
+  (personagem114 = {
+    nome: "EGITO",
+    imagem:"./img/EGITO.jpg",
   }),
-  (personagem033 = {
-    nome: "DESENHO",
-    imagem: "./img/DESENHO.jpg",
+  (personagem115 = {
+    nome:"ELEFANTE",
+    imagem:"./img/ELEFANTE.jpg",
   }),
-  (personagem034 = {
-    nome: "DESTRUÍDA",
-    imagem: "./img/DESTRUIDA.jpg",
+  (personagem116 = {
+    nome: "ESCADA",
+    imagem: "./img/ESCADA.jpg",
   }),
-  (personagem035 = {
-    nome: "DEZEMBRO",
-    imagem: "./img/DEZEMBRO.jpg"
-  }),
-  (personagem036 = {
-    nome: "DINHEIRO",
-    imagem:"./img/DINHEIRO.jpg",
-  }),
-  (personagem037 = {
-    nome: "DINOSSAURO",
-    imagem: "./img/DINOSSAURO.jpg",
-  }),
-  (personagem038 = {
-    nome: "DOBRADURA",
-    imagem: "./img/DOBRADURA.jpg",
-  }),
-  (personagem039 = {
+  (personagem117 = {
     nome: "ESCORREGADOR",
-    imagem:"./img/ESCORREGADOR.jpg",
+    imagem: "./img/ESCORREGADOR.jpg",
   }),
-  (personagem040 = {
-    nome: "ESPAGUETE",
-    imagem: "./img/ESPAGUETE.jpg",
+  (personagem118 = {
+    nome: "ESCOVA",
+    imagem: "./img/ESCOVA.jpg",
   }),
-  (personagem041 = {
-    nome:"ESPANTALHO",
-    imagem: "./img/ESPANTALHO.jpg",
+  (personagem119 = {
+    nome: "ESPAÇO",
+    imagem:"./img/ESPACO.jpg",
   }),
-  (personagem042 = {
-    nome: "ESPELHO",
-    imagem: "./img/ESPELHO.jpg",
+  (personagem120 = {
+    nome: "ESPADA",
+    imagem: "./img/ESPADA.jpg",
+  }),
+  (personagem121 = {
+    nome: "ESTRADA",
+    imagem: "./img/ESTRADA.jpg",
+  }),
+  (personagem122 = {
+    nome: "FÁBRICA",
+    imagem:"./img/FABRICA.jpg",
+  }),
+  (personagem123 = {
+    nome: "FÁBULAS",
+    imagem: "./img/FABULAS.jpg",
+  }),
+  (personagem124 = {
+    nome:"FACA",
+    imagem: "./img/FACA.jpg",
+  }),
+  (personagem125 = {
+    nome: "FADA",
+    imagem: "./img/FADA.jpg",
+  }),
+ (personagem126 = {
+    nome: "FAMÍLIA",
+    imagem: "./img/FADA.jpg",
+  }),
+ (personagem127 = {
+    nome: "FANTASIA",
+    imagem: "./img/FANTASIA.jpg",
+  }),
+ (personagem128 = {
+    nome: "FANTASMA",
+    imagem: "./img/FANTASMA.jpg",
+  }),
+ (personagem129 = {
+    nome: "FARAÓ",
+    imagem: "./img/FARAO.jpg",
+  }),
+ (personagem130 = {
+    nome: "FARINHA",
+    imagem: "./img/FARINHA.jpg",
+  }),
+ (personagem131 = {
+    nome: "FARAOESTE",
+    imagem: "./img/FAROESTE.jpg",
+  }),
+ (personagem132 = {
+    nome: "FAROFA",
+    imagem: "./img/FAROFA.jpg",
+  }),
+ (personagem133 = {
+    nome: "FAROL",
+    imagem: "./img/FAROL.jpg",
+  }),
+ (personagem134 = {
+    nome: "FAXINA",
+    imagem: "./img/FAXINA.jpg",
+  }),
+ (personagem135 = {
+    nome: "FAZENDA",
+    imagem: "./img/FAZENDA.jpg",
+  }),
+ (personagem136 = {
+    nome: "FEIJÃO",
+    imagem: "./img/FEIJAO.jpg",
   }),
   (personagem043 = {
     nome:"ESQUILO",
