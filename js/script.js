@@ -551,6 +551,54 @@ const listPersonagens = [
     nome: "FEIJÃO",
     imagem: "./img/FEIJAO.jpg",
   }),
+ (personagem137 = {
+    nome: "FEIRANTE",
+    imagem: "./img/FEIRANTE.jpg",
+  }),
+ (personagem138 = {
+    nome: "FELICIDADE",
+    imagem: "./img/FELICIDADE.jpg",
+  }),
+ (personagem139 = {
+    nome: "FELINOS",
+    imagem: "./img/FELINOS.jpg",
+  }),
+ (personagem140 = {
+    nome: "FENO",
+    imagem: "./img/FENO.jpg",
+  }),
+ (personagem141 = {
+    nome: "FÉRIAS",
+    imagem: "./img/FERIAS.jpg",
+  }),
+ (personagem142 = {
+    nome: "FERIMENTO",
+    imagem: "./img/FERIMENTO.jpg",
+  }),
+ (personagem143 = {
+    nome: "FERRADURA",
+    imagem: "./img/FERRADURA.jpg",
+  }),
+ (personagem144 = {
+    nome: "FERRARI",
+    imagem: "./img/FERRARI.jpg",
+  }),
+ (personagem145 = {
+    nome: "FESTA",
+    imagem: "./img/FESTA.jpg",
+  }),
+ (personagem146 = {
+    nome: "FIGO",
+    imagem: "./img/FIGO.jpg",
+  }),
+ (personagem136 = {
+    nome: "FILA",
+    imagem: "./img/FILA.jpg",
+  }),
+ (personagem136 = {
+    nome: "FILHOTE",
+    imagem: "./img/FILHOTE.jpg",
+  }),
   (personagem043 = {
     nome:"ESQUILO",
     imagem: "./img/ESQUILO.jpg",
