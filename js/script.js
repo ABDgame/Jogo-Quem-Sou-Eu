@@ -759,6 +759,106 @@ const listPersonagens = [
     nome: "GELÉIA",
     imagem: "./img/GELEIA.jpg",
   }),
+ (personagem189 = {
+    nome: "GELO",
+    imagem: "./img/GELO.jpg",
+  }),
+ (personagem190 = {
+    nome: "GEMA",
+    imagem: "./img/GEMA.jpg",
+  }),
+ (personagem191 = {
+    nome: "GEMÊAS",
+    imagem: "./img/GEMÊAS.jpg",
+  }),
+ (personagem192 = {
+    nome: "GEMÊAS",
+    imagem: "./img/GEMÊAS.jpg",
+  }),
+ (personagem193 = {
+    nome: "GÊNIO",
+    imagem: "./img/GENIO.jpg",
+  }),
+ (personagem194 = {
+    nome: "GIGANTE",
+    imagem: "./img/GIGANTE.jpg",
+  }),
+ (personagem195 = {
+    nome: "GINÁSTICA",
+    imagem: "./img/GINASTICA.jpg",
+  }),
+ (personagem196 = {
+    nome: "GINCANA",
+    imagem: "./img/GINCANA.jpg",
+  }),
+ (personagem197 = {
+    nome: "GIRAFA",
+    imagem: "./img/GIRAFA.jpg",
+  }),
+ (personagem198 = {
+    nome: "GIRASSOL",
+    imagem: "./img/GIRASSOL.jpg",
+  }),
+ (personagem199 = {
+    nome: "GIZ",
+    imagem: "./img/GIZ.jpg",
+  }),
+ (personagem200 = {
+    nome: "GOIABA",
+    imagem: "./img/GOIABA.jpg",
+  }),
+ (personagem201 = {
+    nome: "GOLEIRO",
+    imagem: "./img/GOLEIRO.jpg",
+  }),
+ (personagem202 = {
+    nome: "GOLFE",
+    imagem: "./img/GOLFE.jpg",
+  }),
+ (personagem203 = {
+    nome: "GOLFINHOS",
+    imagem: "./img/GOLFINHOS.jpg",
+  }),
+ (personagem204 = {
+    nome: "GOMA",
+    imagem: "./img/GOMA.jpg",
+  }),
+ (personagem205 = {
+    nome: "GORILA",
+    imagem: "./img/GORILA.jpg",
+  }),
+ (personagem206 = {
+    nome: "GOTA",
+    imagem: "./img/GOTA.jpg",
+  }),
+ (personagem207 = {
+    nome: "GULOSEIMAS",
+    imagem: "./img/GULOSEIMAS.jpg",
+  }),
+ (personagem208 = {
+    nome: "HABILIDADE",
+    imagem: "./img/HABILIDADE.jpg",
+  }),
+ (personagem209 = {
+    nome: "HAMBÚRGUER",
+    imagem: "./img/HAMBURGUE.jpg",
+  }),
+ (personagem210 = {
+    nome: "HAMSTER",
+    imagem: "./img/HAMESTER.jpg",
+  }),
+ (personagem211 = {
+    nome: "HARPA",
+    imagem: "./img/HARPA.jpg",
+  }),
+ (personagem212 = {
+    nome: "HARRY",
+    imagem: "./img/HARRY.jpg",
+  }),
+ (personagem213 = {
+    nome: "HAVAIANAS",
+    imagem: "./img/HAVAIANAS.jpg",
+  }),
   (personagem043 = {
     nome:"ESQUILO",
     imagem: "./img/ESQUILO.jpg",
