@@ -859,6 +859,194 @@ const listPersonagens = [
     nome: "HAVAIANAS",
     imagem: "./img/HAVAIANAS.jpg",
   }),
+ (personagem214 = {
+    nome: "HELICÓPTERO",
+    imagem: "./img/HELICOPTERO.jpg",
+  }),
+ (personagem215 = {
+    nome: "HELLO KITTY",
+    imagem: "./img/HELLO-KITTY.jpg",
+  }),
+ (personagem216 = {
+    nome: "HÉRCULES",
+    imagem: "./img/HERCULES.jpg",
+  }),
+ (personagem217 = {
+    nome: "HIDRANTE",
+    imagem: "./img/HIDRANTE.jpg",
+  }),
+ (personagem218 = {
+    nome: "HIENA",
+    imagem: "./img/HIENA.jpg",
+  }),
+ (personagem219 = {
+    nome: "HIGIENE",
+    imagem: "./img/HIGIENE.jpg",
+  }),
+ (personagem220 = {
+    nome: "HIPOPÓTAMO",
+    imagem: "./img/HIPOPOTAMO.jpg",
+  }),
+ (personagem221 = {
+    nome: "HOMEM-ARANHA",
+    imagem: "./img/HOMEM-ARANHA.jpg",
+  }),
+ (personagem222 = {
+    nome: "HORTA",
+    imagem: "./img/HORTA.jpg",
+  }),
+ (personagem223 = {
+    nome: "HORTELÃ",
+    imagem: "./img/HORTELA.jpg",
+  }),
+ (personagem224 = {
+    nome: "HOSPITAL",
+    imagem: "./img/HOSPITAL.jpg",
+  }),
+ (personagem225 = {
+    nome: "HOTEL",
+    imagem: "./img/HOTEL.jpg",
+  }),
+ (personagem226 = {
+    nome: "HULK",
+    imagem: "./img/HULK.jpg",
+  }),
+ (personagem227 = {
+    nome: "HUMANO",
+    imagem: "./img/HUMANO.jpg",
+  }),
+ (personagem228 = {
+    nome: "IGLU",
+    imagem: "./img/IGLU.jpg",
+  }),
+ (personagem229 = {
+    nome: "IGREJA",
+    imagem: "./img/IGREJA.jpg",
+  }),
+ (personagem230 = {
+    nome: "ILHA",
+    imagem: "./img/ILHA.jpg",
+  }),
+ (personagem231 = {
+    nome: "IMÃ",
+    imagem: "./img/IMA.jpg",
+  }),
+ (personagem232 = {
+    nome: "INCÊNDIO",
+    imagem: "./img/INCENDIO.jpg",
+  }),
+ (personagem233 = {
+    nome: "ÍNDIO",
+    imagem: "./img/INDIO.jpg",
+  }),
+ (personagem234 = {
+    nome: "INJEÇÃO",
+    imagem: "./img/INJECAO.jpg",
+  }),
+ (personagem235 = {
+    nome: "INVERNO",
+    imagem: "./img/INVERNO.jpg",
+  }),
+ (personagem236 = {
+    nome: "IOIÔ",
+    imagem: "./img/IOIO.jpg",
+  }),
+ (personagem237 = {
+    nome: "IOGURTE",
+    imagem: "./img/IOGURTE.jpg",
+  }),
+ (personagem238 = {
+    nome: "JABUTICABA",
+    imagem: "./img/JABUTICABA.jpg",
+  }),
+ (personagem239 = {
+    nome: "JACARÉ",
+    imagem: "./img/JACARE.jpg",
+  }),
+ (personagem240 = {
+    nome: "JANELA",
+    imagem: "./img/JANELA.jpg",
+  }),
+ (personagem241 = {
+    nome: "JANGADA",
+    imagem: "./img/JANGADA.jpg",
+  }),
+ (personagem242 = {
+    nome: "JANTAR",
+    imagem: "./img/JANTAR.jpg",
+  }),
+ (personagem243 = {
+    nome: "JAPÃO",
+    imagem: "./img/JAPAO.jpg",
+  }),
+ (personagem244 = {
+    nome: "JAQUETA",
+    imagem: "./img/JAQUETA.jpg",
+  }),
+ (personagem245 = {
+    nome: "JARDIM",
+    imagem: "./img/JARDIM.jpg",
+  }),
+ (personagem246 = {
+    nome: "JARDINEIRO",
+    imagem: "./img/JARDINEIRO.jpg",
+  }),
+ (personagem247 = {
+    nome: "JARRA",
+    imagem: "./img/JARRA.jpg",
+  }),
+ (personagem248 = {
+    nome: "JAVALI",
+    imagem: "./img/JAVALI.jpg",
+  }),
+ (personagem249 = {
+    nome: "JOANINHA",
+    imagem: "./img/JOANINHA.jpg",
+  }),
+ (personagem250 = {
+    nome: "JOELHO",
+    imagem: "./img/JOELHO.jpg",
+  }),
+ (personagem251 = {
+    nome: "JUDÔ",
+    imagem: "./img/JUDO.jpg",
+  }),
+ (personagem252 = {
+    nome: "JUJUBA",
+    imagem: "./img/JUJUBA.jpg",
+  }),
+ (personagem253 = {
+    nome: "JUMENTO",
+    imagem: "./img/JUMENTO.jpg",
+  }),
+ (personagem254 = {
+    nome: "JUNINA",
+    imagem: "./img/JUNINA.jpg",
+  }),
+ (personagem255 = {
+    nome: "KARATÊ",
+    imagem: "./img/KARATE.jpg",
+  }),
+ (personagem256 = {
+    nome: "KETCHUP",
+    imagem: "./img/KETCHUP.jpg",
+  }),
+ (personagem257 = {
+    nome: "KIMONO",
+    imagem: "./img/KIMONO.jpg",
+  }),
+ (personagem258 = {
+    nome: "KIWI",
+    imagem: "./img/KIWI.jpg",
+  }),
+ (personagem259 = {
+    nome: "KOALAS",
+    imagem: "./img/KOALAS.jpg",
+  }),
+ (personagem260 = {
+    nome: "KOMBI",
+    imagem: "./img/KOMBI.jpg",
+  }),
   (personagem043 = {
     nome:"ESQUILO",
     imagem: "./img/ESQUILO.jpg",
