@@ -1187,6 +1187,154 @@ const listPersonagens = [
     nome: "MAÇÃ",
     imagem: "./img/LEGUMES.jpg",
   }),
+ (personagem280 = {
+    nome: "MACACO",
+    imagem: "./img/MACACO.jpg",
+  }),
+ (personagem281 = {
+    nome: "MALABARISTA",
+    imagem: "./img/MALABARISTA.jpg",
+  }),
+ (personagem282 = {
+    nome: "MARACUJÁ",
+    imagem: "./img/MARACUJA.jpg",
+  }),
+ (personagem283 = {
+    nome: "MEL",
+    imagem: "./img/MEL.jpg",
+  }),
+ (personagem284 = {
+    nome: "MELANCIA",
+    imagem: "./img/MELANCIA.jpg",
+  }),
+ (personagem285 = {
+    nome: "MELÃO",
+    imagem: "./img/MELAO.jpg",
+  }),
+ (personagem286 = {
+    nome: "MESA",
+    imagem: "./img/MESA.jpg",
+  }),
+ (personagem287 = {
+    nome: "MILHO",
+    imagem: "./img/MILHO.jpg",
+  }),
+ (personagem288 = {
+    nome: "MILKSHAKE",
+    imagem: "./img/MILKSHAKE.jpg",
+  }),
+ (personagem289 = {
+    nome: "MOANA",
+    imagem: "./img/MOANA.jpg",
+  }),
+ (personagem290 = {
+    nome: "MORANGO",
+    imagem: "./img/MORANGO.jpg",
+  }),
+ (personagem291 = {
+    nome: "MOTO",
+    imagem: "./img/MOTO.jpg",
+  }),
+ (personagem292 = {
+    nome: "NATAÇÃO",
+    imagem: "./img/NATACAO.jpg",
+  }),
+ (personagem293 = {
+    nome: "NAVIO",
+    imagem: "./img/NAVIO.jpg",
+  }),
+ (personagem294 = {
+    nome: "NEMO",
+    imagem: "./img/NEMO.jpg",
+  }),
+ (personagem295 = {
+    nome: "NEVE",
+    imagem: "./img/NEVE.jpg",
+  }),
+ (personagem296 = {
+    nome: "NOEL",
+    imagem: "./img/NOEL.jpg",
+  }),
+ (personagem297 = {
+    nome: "NOITE",
+    imagem: "./img/NOITE.jpg",
+  }),
+ (personagem298 = {
+    nome: "ÓCULOS",
+    imagem: "./img/OCULOS.jpg",
+  }),
+ (personagem299 = {
+    nome: "ONÇA",
+    imagem: "./img/ONCA.jpg",
+  }),
+ (personagem300 = {
+    nome: "ONDA",
+    imagem: "./img/ONDA.jpg",
+  }),
+ (personagem301 = {
+    nome: "OURO",
+    imagem: "./img/OURO.jpg",
+  }),
+ (personagem302 = {
+    nome: "OVELHA",
+    imagem: "./img/OVELHA.jpg",
+  }),
+ (personagem303 = {
+    nome: "OVOS",
+    imagem: "./img/OVOS.jpg",
+  }),
+ (personagem304 = {
+    nome: "PALHAÇO",
+    imagem: "./img/PALHACO.jpg",
+  }),
+ (personagem305 = {
+    nome: "PANDA",
+    imagem: "./img/PANDA.jpg",
+  }),
+ (personagem306 = {
+    nome: "PANDEIRO",
+    imagem: "./img/PANDEIRO.jpg",
+  }),
+ (personagem307 = {
+    nome: "PANQUECA",
+    imagem: "./img/PANQUECA.jpg",
+  }),
+ (personagem308 = {
+    nome: "PÁSSARO",
+    imagem: "./img/PASSARO.jpg",
+  }),
+ (personagem309 = {
+    nome: "PATO",
+    imagem: "./img/PATO.jpg",
+  }),
+ (personagem310 = {
+    nome: "PAVÃO",
+    imagem: "./img/PAVAO.jpg",
+  }),
+ (personagem311 = {
+    nome: "PERA",
+    imagem: "./img/PERA.jpg",
+  }),
+ (personagem312 = {
+    nome: "PERU",
+    imagem: "./img/PERU.jpg",
+  }),
+ (personagem313 = {
+    nome: "PIANO",
+    imagem: "./img/PIANO.jpg",
+  }),
+ (personagem314 = {
+    nome: "PIMENTÃO",
+    imagem: "./img/PIMENTAO.jpg",
+  }),
+ (personagem315 = {
+    nome: "PIRANHA",
+    imagem: "./img/PIRANHA.jpg",
+  }),
+ (personagem316 = {
+    nome: "PIRATA",
+    imagem: "./img/PIRATA.jpg",
+  }),
   (personagem043 = {
     nome:"ESQUILO",
     imagem: "./img/ESQUILO.jpg",
