@@ -1047,6 +1047,146 @@ const listPersonagens = [
     nome: "KOMBI",
     imagem: "./img/KOMBI.jpg",
   }),
+ (personagem261 = {
+    nome: "LAGARTA",
+    imagem: "./img/LAGARTA.jpg",
+  }),
+ (personagem262 = {
+    nome: "LAGARTIXA",
+    imagem: "./img/LAGARTIXA.jpg",
+  }),
+ (personagem263 = {
+    nome: "LAGARTO",
+    imagem: "./img/LAGARTO.jpg",
+  }),
+ (personagem264 = {
+    nome: "LAGO",
+    imagem: "./img/LAGO.jpg",
+  }),
+ (personagem265 = {
+    nome: "LAGOSTA",
+    imagem: "./img/LAGOSTA.jpg",
+  }),
+ (personagem266 = {
+    nome: "LÁGRIMAS",
+    imagem: "./img/LAGRIMAS.jpg",
+  }),
+ (personagem267 = {
+    nome: "LÂMPADA",
+    imagem: "./img/LAMPADA.jpg",
+  }),
+ (personagem268 = {
+    nome: "LANCHA",
+    imagem: "./img/LANCHA.jpg",
+  }),
+ (personagem269 = {
+    nome: "LANCHE",
+    imagem: "./img/LANCHE.jpg",
+  }),
+ (personagem270 = {
+    nome: "LANTERNA",
+    imagem: "./img/LANTERNA.jpg",
+  }),
+ (personagem271 = {
+    nome: "LÁPIS",
+    imagem: "./img/LAPIS.jpg",
+  }),
+ (personagem272 = {
+    nome: "LARANJA",
+    imagem: "./img/LARANJA.jpg",
+  }),
+ (personagem273 = {
+    nome: "LAREIRA",
+    imagem: "./img/LAREIRA.jpg",
+  }),
+ (personagem274 = {
+    nome: "LASANHA",
+    imagem: "./img/LASANHA.jpg",
+  }),
+ (personagem275 = {
+    nome: "LATA",
+    imagem: "./img/LATA.jpg",
+  }),
+ (personagem276 = {
+    nome: "LAVANDERIA",
+    imagem: "./img/LAVANDERIA.jpg",
+  }),
+ (personagem277 = {
+    nome: "LEÃO",
+    imagem: "./img/LEAO.jpg",
+  }),
+ (personagem278 = {
+    nome: "LEBRE",
+    imagem: "./img/LEBRE.jpg",
+  }),
+ (personagem279 = {
+    nome: "LEGUMES",
+    imagem: "./img/LEGUMES.jpg",
+  }),
+ (personagem280 = {
+    nome: "LEITE",
+    imagem: "./img/LEITE.jpg",
+  }),
+ (personagem281 = {
+    nome: "LEITURA",
+    imagem: "./img/LEITURA.jpg",
+  }),
+ (personagem282 = {
+    nome: "LENHADOR",
+    imagem: "./img/LENHADOR.jpg",
+  }),
+ (personagem283 = {
+    nome: "LEOA",
+    imagem: "./img/LEOA.jpg",
+  }),
+ (personagem284 = {
+    nome: "LEQUE",
+    imagem: "./img/LEQUE.jpg",
+  }),
+ (personagem285 = {
+    nome: "CARAMUJO",
+    imagem: "./img/CARAMUJO.jpg",
+  }),
+ (personagem286 = {
+    nome: "LIBÉLULA",
+    imagem: "./img/LEGUMES.jpg",
+  }),
+ (personagem287 = {
+    nome: "LIMONADA",
+    imagem: "./img/LIMONADA.jpg",
+  }),
+ (personagem288 = {
+    nome: "LIQUIDIFICADOR",
+    imagem: "./img/LIQUIDIFICADOR.jpg",
+  }),
+ (personagem289 = {
+    nome: "LIVROS",
+    imagem: "./img/LIVROS.jpg",
+  }),
+ (personagem290 = {
+    nome: "LOBO",
+    imagem: "./img/LOBO.jpg",
+  }),
+ (personagem291 = {
+    nome: "LOCOMOTIVA",
+    imagem: "./img/LOCOMOTIVA.jpg",
+  }),
+ (personagem292 = {
+    nome: "LONTRA",
+    imagem: "./img/LONTRA.jpg",
+  }),
+ (personagem293 = {
+    nome: "LOUSA",
+    imagem: "./img/LOUSA.jpg",
+  }),
+ (personagem294 = {
+    nome: "LUNETA",
+    imagem: "./img/LUNETA.jpg",
+  }),
+ (personagem279 = {
+    nome: "MAÇÃ",
+    imagem: "./img/LEGUMES.jpg",
+  }),
   (personagem043 = {
     nome:"ESQUILO",
     imagem: "./img/ESQUILO.jpg",
