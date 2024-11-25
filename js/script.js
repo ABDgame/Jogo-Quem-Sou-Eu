@@ -1335,9 +1335,129 @@ const listPersonagens = [
     nome: "PIRATA",
     imagem: "./img/PIRATA.jpg",
   }),
-  (personagem043 = {
-    nome:"ESQUILO",
-    imagem: "./img/ESQUILO.jpg",
+ (personagem317 = {
+    nome: "PIZZA",
+    imagem: "./img/PIZZA.jpg",
+  }),
+ (personagem318 = {
+    nome: "POÇO",
+    imagem: "./img/POCO.jpg",
+  }),
+ (personagem319 = {
+    nome: "POMBA",
+    imagem: "./img/POMBA.jpg",
+  }),
+ (personagem320 = {
+    nome: "PORCO",
+    imagem: "./img/PORCO.jpg",
+  }),
+ (personagem321 = {
+    nome: "PUDIM",
+    imagem: "./img/PUDIM.jpg",
+  }),
+ (personagem322 = {
+    nome: "QUATI",
+    imagem: "./img/QUATI.jpg",
+  }),
+ (personagem323 = {
+    nome: "QUEIJO",
+    imagem: "./img/QUEIJO.jpg",
+  }),
+ (personagem324 = {
+    nome: "RABANETE",
+    imagem: "./img/RABANETE.jpg",
+  }),
+ (personagem325 = {
+    nome: "RAPOSA",
+    imagem: "./img/RAPOSA.jpg",
+  }),
+ (personagem326 = {
+    nome: "RAPUNZEL",
+    imagem: "./img/RAPUNZEL.jpg",
+  }),
+ (personagem327 = {
+    nome: "REI",
+    imagem: "./img/REI.jpg",
+  }),
+ (personagem328 = {
+    nome: "RELÓGIO",
+    imagem: "./img/RELOGIO.jpg",
+  }),
+ (personagem329 = {
+    nome: "RESFRIADO",
+    imagem: "./img/RESFRIADO.jpg",
+  }),
+ (personagem330 = {
+    nome: "RINOCERONTE",
+    imagem: "./img/RINOCERONTE.jpg",
+  }),
+ (personagem331 = {
+    nome: "RIO",
+    imagem: "./img/RIO.jpg",
+  }),
+ (personagem332 = {
+    nome: "ROBÔ",
+    imagem: "./img/ROBO.jpg",
+  }),
+ (personagem333 = {
+    nome: "ROSA",
+    imagem: "./img/ROSA.jpg",
+  }),
+ (personagem334 = {
+    nome: "RUBI",
+    imagem: "./img/RUBI.jpg",
+  }),
+ (personagem335 = {
+    nome: "SALAME",
+    imagem: "./img/SALAME.jpg",
+  }),
+ (personagem336 = {
+    nome: "SANDUÍCHE",
+    imagem: "./img/SANDUICHE.jpg",
+  }),
+ (personagem337 = {
+    nome: "SAPO",
+    imagem: "./img/SAPO.jpg",
+  }),
+ (personagem338 = {
+    nome: "SARDINHA",
+    imagem: "./img/SARDINHA.jpg",
+  }),
+ (personagem339 = {
+    nome: "TÊNIS",
+    imagem: "./img/TENIS.jpg",
+  }),
+ (personagem340 = {
+    nome: "TIGRE",
+    imagem: "./img/TIGRE.jpg",
+  }),
+ (personagem341 = {
+    nome: "TOMATE",
+    imagem: "./img/TOMATE.jpg",
+  }),
+ (personagem342 = {
+    nome: "TUCANO",
+    imagem: "./img/TUCANO.jpg",
+  }),
+ (personagem343 = {
+    nome: "UNICÓRNIO",
+    imagem: "./img/UNICORNIO.jpg",
+  }),
+ (personagem344 = {
+    nome: "UNIVERSO",
+    imagem: "./img/UNIVERSO.jpg",
+  }),
+ (personagem345 = {
+    nome: "URSO",
+    imagem: "./img/URSO.jpg",
+  }),
+ (personagem346 = {
+    nome: "URUBU",
+    imagem: "./img/URUBU.jpg",
+  }),
+ (personagem347 = {
+    nome: "UVA",
+    imagem: "./img/UVA.jpg",
   }),
 ];
 
